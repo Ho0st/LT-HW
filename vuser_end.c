@@ -4,7 +4,7 @@ vuser_end()
 	lr_output_message("Price first ticket = %d",atoi(lr_eval_string("{Price}")));
 
     
-    lr_output_message("Number of ticket 1 class= %d",atoi(lr_eval_string("{First_class_ticket_Count}")));
+    lr_output_message("Number of ticket First class= %d",atoi(lr_eval_string("{First_class_ticket_Count}")));
     
 	web_url("SignOff Button", 
 		"URL={host}/cgi-bin/welcome.pl?signOff=1", 
