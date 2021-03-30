@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Frankfurt&departDate=03%2F30%2F2021&arrive=San+Francisco&returnDate=0"
+"4%2F06%2F2021&numPassengers=1&seatPref=Aisle&seatType=Coach&.cgifields=roundtrip&.cgifields=se"
+"atType&.cgifields=seatPref&findFlights.x=40&findFlights.y=6"
